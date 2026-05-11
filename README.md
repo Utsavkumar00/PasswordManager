@@ -449,7 +449,7 @@ User Login
 
 ## 📜 License
 
-This project is developed for academic purposes by the team members listed above.
+This project is developed for academic purposes.
 
 ---
 
