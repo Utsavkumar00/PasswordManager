@@ -4,17 +4,6 @@ A comprehensive, enterprise-grade **Password Manager** web application built wit
 
 ---
 
-## 👨‍💻 Team Members
-
-| # | Name | SAP ID |
-|---|------|--------|
-| 1 | Ankit Aman | 590018956 |
-| 2 | Nitin Baghel | 590018953 |
-| 3 | Amar Sangamnath Devkatte | 590018914 |
-| 4 | Mohd. Zaid | 590017505 |
-
----
-
 ## 📋 Table of Contents
 
 - [Features](#-features)
